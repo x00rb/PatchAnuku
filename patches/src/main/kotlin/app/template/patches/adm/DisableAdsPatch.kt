@@ -18,4 +18,3 @@ val disableAdsPatch = bytecodePatch(
         AdmDisableAdsPatches.APPBRAIN_BANNER_INIT.method.addInstruction(0, "return-void")
     }
 }
-"
