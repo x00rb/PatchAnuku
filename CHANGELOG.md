@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/x00rb/PatchAnuku/compare/v1.1.0...v1.1.1) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* correct IDM ad-disable fingerprint parameters ([6a8802c](https://github.com/x00rb/PatchAnuku/commit/6a8802cc4f875ee2c60db7a149bd6f92d7f3bdbe))
+
 ## [1.1.0](https://github.com/x00rb/PatchAnuku/compare/v1.0.0...v1.1.0) (2026-10-17)
 
 ### ✨ New Features
