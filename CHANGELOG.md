@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/x00rb/PatchAnuku/compare/v1.1.2...v1.1.3) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* target unique ad-controller init signatures in IDM ([1ae83af](https://github.com/x00rb/PatchAnuku/commit/1ae83af57471db0120d3bf9c298a93796bce2784))
+
 ## [1.1.2](https://github.com/x00rb/PatchAnuku/compare/v1.1.1...v1.1.2) (2026-10-17)
 
 ### 🐛 Bug Fixes
