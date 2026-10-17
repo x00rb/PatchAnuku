@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/x00rb/PatchAnuku/compare/v1.1.1...v1.1.2) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* use partial parameter types for IDM browser ad fingerprint ([d0eeb4b](https://github.com/x00rb/PatchAnuku/commit/d0eeb4b310157b0fba81d5329c4d780986413a47))
+
 ## [1.1.1](https://github.com/x00rb/PatchAnuku/compare/v1.1.0...v1.1.1) (2026-10-17)
 
 ### 🐛 Bug Fixes

@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-17T00:41:22",
-  "description": "## [1.1.1](https://github.com/x00rb/PatchAnuku/compare/v1.1.0...v1.1.1) (2026-10-17)\n\n### 🐛 Bug Fixes\n\n* correct IDM ad-disable fingerprint parameters ([6a8802c](https://github.com/x00rb/PatchAnuku/commit/6a8802cc4f875ee2c60db7a149bd6f92d7f3bdbe))",
-  "download_url": "https://github.com/x00rb/PatchAnuku/releases/download/v1.1.1/patches-1.1.1.mpp",
+  "created_at": "2026-10-17T00:46:47",
+  "description": "## [1.1.2](https://github.com/x00rb/PatchAnuku/compare/v1.1.1...v1.1.2) (2026-10-17)\n\n### 🐛 Bug Fixes\n\n* use partial parameter types for IDM browser ad fingerprint ([d0eeb4b](https://github.com/x00rb/PatchAnuku/commit/d0eeb4b310157b0fba81d5329c4d780986413a47))",
+  "download_url": "https://github.com/x00rb/PatchAnuku/releases/download/v1.1.2/patches-1.1.2.mpp",
   "signature_download_url": "",
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
