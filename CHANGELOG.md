@@ -1,3 +1,9 @@
+## [1.1.9](https://github.com/x00rb/PatchAnuku/compare/v1.1.8...v1.1.9) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* revert to working Disable Ads patch (drop hide-banner bytecode and resource patches) ([1d836b6](https://github.com/x00rb/PatchAnuku/commit/1d836b63654af8575868d49aa40300e7a8397704))
+
 ## [1.1.8](https://github.com/x00rb/PatchAnuku/compare/v1.1.7...v1.1.8) (2026-10-17)
 
 ### 🐛 Bug Fixes
