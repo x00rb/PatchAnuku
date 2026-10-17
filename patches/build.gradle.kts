@@ -4,8 +4,8 @@ patches {
     about {
         name = "Anuku Patches"
         description = "Patches for Advanced Download Manager"
-        source = "git@github.com:Anuku/PatchAnuku.git"
-        author = "Anuku"
+        source = "git@github.com:x00rb/PatchAnuku.git"
+        author = "x00rb"
         contact = "na"
         website = "na"
         license = "GPLv3"
