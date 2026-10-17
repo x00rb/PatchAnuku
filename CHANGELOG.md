@@ -4,6 +4,12 @@
 
 * hide empty banner container via bytecode (resource patch not applying) ([3c4c71b](https://github.com/x00rb/PatchAnuku/commit/3c4c71bdbad603e47df253f43f632586e6fef719))
 
+## [1.1.7](https://github.com/x00rb/PatchAnuku/compare/v1.1.6...v1.1.7) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* hide empty banner container via bytecode (resource patch not applying) ([3c4c71b](https://github.com/x00rb/PatchAnuku/commit/3c4c71bdbad603e47df253f43f632586e6fef719))
+
 ## [1.1.6](https://github.com/x00rb/PatchAnuku/compare/v1.1.5...v1.1.6) (2026-10-17)
 
 ### 🐛 Bug Fixes
