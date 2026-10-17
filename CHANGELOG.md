@@ -1,3 +1,9 @@
+## [1.1.6](https://github.com/x00rb/PatchAnuku/compare/v1.1.5...v1.1.6) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* debug resource patch application with red banner container ([068b4f6](https://github.com/x00rb/PatchAnuku/commit/068b4f69ed974cdc95e681d3fefbfd3fb614fe82))
+
 ## [1.1.5](https://github.com/x00rb/PatchAnuku/compare/v1.1.4...v1.1.5) (2026-10-17)
 
 ### 🐛 Bug Fixes
