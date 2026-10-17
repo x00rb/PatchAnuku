@@ -1,3 +1,9 @@
+## [1.1.8](https://github.com/x00rb/PatchAnuku/compare/v1.1.7...v1.1.8) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* hide empty banner via onResume bytecode (avoid register type error) ([ab2815c](https://github.com/x00rb/PatchAnuku/commit/ab2815c90869d2edb7758942ac4d6520d86dacbf))
+
 ## [1.1.7](https://github.com/x00rb/PatchAnuku/compare/v1.1.6...v1.1.7) (2026-10-17)
 
 ### 🐛 Bug Fixes
