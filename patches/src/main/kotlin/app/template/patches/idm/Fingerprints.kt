@@ -12,5 +12,6 @@ object IdmDisableAdsPatches {
     val BROWSER_AD_INIT = Fingerprint(
         definingClass = "Li/rm;",
         name = "mo13964",
+        parameters = listOf("Lacr/browser/lightning/activity/MyAppCompatActivity;", "Li/m15;"),
     )
 }
