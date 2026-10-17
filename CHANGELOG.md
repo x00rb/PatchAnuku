@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/x00rb/PatchAnuku/compare/v1.1.3...v1.1.4) (2026-10-17)
+
+### 🐛 Bug Fixes
+
+* hide empty 60dp banner container after ads disabled in IDM ([ea16929](https://github.com/x00rb/PatchAnuku/commit/ea169298b706260acdf188a52ddafa8d0d81800f))
+
 ## [1.1.3](https://github.com/x00rb/PatchAnuku/compare/v1.1.2...v1.1.3) (2026-10-17)
 
 ### 🐛 Bug Fixes
