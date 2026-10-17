@@ -26,9 +26,8 @@ val idmHideEmptyBannerResourcePatch = resourcePatch {
                         }
                     }
                     if (hasSlot) {
-                        ll.setAttribute("android:minHeight", "60dp")
-                        ll.setAttribute("android:visibility", "visible")
-                        ll.setAttribute("android:background", "#FFFF0000")
+                        ll.setAttribute("android:minHeight", "0dp")
+                        ll.setAttribute("android:visibility", "gone")
                     }
                 }
             }

@@ -10,7 +10,7 @@ val disableAdsPatch = bytecodePatch(
     default = true
 ) {
     compatibleWith(IdmConstants.COMPATIBILITY_IDM)
-    dependsOn(idmHideEmptyBannerResourcePatch)
+    dependsOn(idmHideEmptyBannerBytecodePatch)
       execute {
         IdmDisableAdsPatches.APP_LEVEL_AD_INIT.method.addInstruction(0, "return-void")
         IdmDisableAdsPatches.AMAZON_AD_INIT.method.addInstruction(0, "return-void")
