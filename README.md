@@ -15,7 +15,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.6](https://github.com/x00rb/PatchAnuku/releases/tag/v1.1.6)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.1.7](https://github.com/x00rb/PatchAnuku/releases/tag/v1.1.7)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
 <details open>
 <summary>📦 Advanced Download Manager&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -32,7 +32,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 </details>
 
 <details open>
-<summary>📦 IDM - Internet Download Manager&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 IDM - Internet Download Manager&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -43,6 +43,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Disable Ads](#disable-ads) | Disables Appodeal, Amazon, Smaato and NewBannerView ad controllers in IDM. |  |
+| [Hide Empty Banner (Bytecode)](#hide-empty-banner-bytecode) | Hides the empty bottom banner container in IDM at runtime. |  |
 
 </details>
 

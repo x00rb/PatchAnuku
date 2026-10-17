@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-17T02:17:00",
-  "description": "## [1.1.6](https://github.com/x00rb/PatchAnuku/compare/v1.1.5...v1.1.6) (2026-10-17)\n\n### 🐛 Bug Fixes\n\n* debug resource patch application with red banner container ([068b4f6](https://github.com/x00rb/PatchAnuku/commit/068b4f69ed974cdc95e681d3fefbfd3fb614fe82))",
-  "download_url": "https://github.com/x00rb/PatchAnuku/releases/download/v1.1.6/patches-1.1.6.mpp",
+  "created_at": "2026-10-17T02:38:17",
+  "description": "## [1.1.7](https://github.com/x00rb/PatchAnuku/compare/v1.1.6...v1.1.7) (2026-10-17)\n\n### 🐛 Bug Fixes\n\n* hide empty banner container via bytecode (resource patch not applying) ([3c4c71b](https://github.com/x00rb/PatchAnuku/commit/3c4c71bdbad603e47df253f43f632586e6fef719))",
+  "download_url": "https://github.com/x00rb/PatchAnuku/releases/download/v1.1.7/patches-1.1.7.mpp",
   "signature_download_url": "",
-  "version": "1.1.6"
+  "version": "1.1.7"
 }
